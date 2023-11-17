@@ -1,0 +1,10 @@
+1: https://futuremusicgroup.odoo.com/
+2: https://futuremusicgroup.odoo.com/about-us
+3: https://futuremusicgroup.odoo.com/our-partner
+4: https://futuremusicgroup.odoo.com/ar
+5: https://futuremusicgroup.odoo.com/contactus
+6: https://futuremusicgroup.odoo.com/privacy
+7: https://futuremusicgroup.odoo.com/ar/about-us
+8: https://futuremusicgroup.odoo.com/ar/our-partner
+9: https://futuremusicgroup.odoo.com/ar/contactus
+10: https://futuremusicgroup.odoo.com/ar/privacy
